@@ -4,7 +4,8 @@ title = 'Jose Martinez'
 
 theme = 'hugo-book'
 
-BookSearch = false 
+BookMenuBundle = '/menu'
+ 
 
 
 
