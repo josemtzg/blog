@@ -1,0 +1,10 @@
+baseURL = 'http://josemtzg.github.io/'
+languageCode = 'en-us'
+title = 'Jose Martinez'
+
+theme = 'hugo-book'
+
+BookSearch = false 
+
+
+

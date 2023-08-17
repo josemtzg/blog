@@ -1,0 +1,10 @@
+[submodule "themes/hugo-book"]
+	path = themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "josemtzblog/themes/hugo-book"]
+	path = josemtzblog/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "josemtzblog/public"]
+	path = josemtzblog/public
+	url = https://github.com/josemtzg/josemtzg.github.io.git
+	branch = main
