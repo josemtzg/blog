@@ -15,16 +15,53 @@ Jose's career has been divided into three major areas:
  * Computer Science Researcher 
  * University teacher
 
-His technical writing ranges from Confluence-based information hubs to developer portals to API references and GitHub Documentation using docs as code graphic tools. I work with multidisciplinary development teams to produce client-facing documentation, onboarding, and user guides.
+His technical writing ranges from Confluence-based information hubs to developer portals to API references and GitHub Documentation using docs as code graphic tools. Has experience working with multidisciplinary development teams to produce client-facing documentation, onboarding, and user guides.
 
 As a researcher, he has been working with Artificial Intelligence and knowledge representation to support software development environment and the reduction of knowledge vaporization in Agile Methodologies.
 
 Finally, as a teacher, he works in the classroom giving lectures, mentoring, and workshops on API design and development, Software Design, and Requirement Analysis.
 
 
-# **SKills**
+# **Skills**
+{{< columns >}} <!-- begin columns block -->
+## *Core skills*
+- Information architecture
+- Artficial Intelligence 
+- Content design and development
+- Software Design 
+- Requirements Analysis 
+- UML Design 
+- Research 
+
+<---> <!-- magic separator, between columns -->
+
+## *Content*
+- API documentation
+- Software architecture guides
+- READMEs
+- Sequence diagrams
+- Developer guides
+- User guides
+- Developer guides
+- Technical specifications
+- Static Sites
+- Getting started and onboarding guides
+
+<---> <!-- magic separator, between columns -->
 
 
+## *Tools*
+- JIRA
+- Confluence
+- Git
+- Swagger
+- Markdown
+- Postman
+- Jupyter notebooks
+- MySQL
+- Text editors
+- MS Office
+{{< /columns >}}
 
 # **Certifications** 
 - [**Microsoft Certified: Azure AI Fundamentals**](https://www.credly.com/badges/2a2f20d3-1f9e-40b4-9e0a-f06929ee3262/public_url)(2023)
