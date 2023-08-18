@@ -3,7 +3,7 @@ headless: true
 ---
 
 ---
-[**Portfolio**]({{<relref "/posts">}})
+**Portfolio**
 
 ---
 
