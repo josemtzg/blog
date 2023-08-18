@@ -6,12 +6,16 @@ headless: true
 **Portfolio**
 
 ---
-
----
 **About Me**
+
+  - [Skills]({{< relref "/#skills" >}})
+  - [Certifications]({{< relref "/#certifications" >}})
+  - [Education]({{< relref "/#education" >}})
 
 <br />
 ---
+
+--- 
 
 **Contact**
 
