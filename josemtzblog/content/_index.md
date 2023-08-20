@@ -6,20 +6,21 @@ type: docs
 
 # **Welcome** 
 
+Jose holds a Ph.D. in Computer Science, has over six years of academic writing experience, and has published research papers in peer-reviewed international journals of software engineering. His technical background enables him to understand the technology stack of projects and make complex concepts understandable for the intended audiences.
+Jose’s career has been divided into three major areas:
+ * Technical Writer
+ * Computer Science Researcher
+ * University Teacher
 
-Jose holds a Ph.D. in Computer Science, has over six years of academic writing experience, and has published in peer-reviewed international journals. His technical background enables him to dive deep into the tech stack of projects to make complex concepts more understandable for multiple audiences. 
+He has experience working with multidisciplinary development teams to produce client-facing documentation, onboarding, and user guides. As a technical writer, he’s had the opportunity to publish the documentation with a range of tools such as: 
+  - Confluence-based information hubs
+  - Developer portals
+  - API references
+  - GitHub Documentation using docs as code graphic tools. 
 
-Jose's career has been divided into three major areas:
+As a researcher, he has been working with AI (Artificial Intelligence) and knowledge representation to support software development environments and the reduction of knowledge vaporization in Agile Methodologies.
 
- * Technical writer
- * Computer Science Researcher 
- * University teacher
-
-His technical writing ranges from Confluence-based information hubs to developer portals to API references and GitHub Documentation using docs as code graphic tools. Has experience working with multidisciplinary development teams to produce client-facing documentation, onboarding, and user guides.
-
-As a researcher, he has been working with Artificial Intelligence and knowledge representation to support software development environment and the reduction of knowledge vaporization in Agile Methodologies.
-
-Finally, as a teacher, he works in the classroom giving lectures, mentoring, and workshops on API design and development, Software Design, and Requirement Analysis.
+Finally, as a teacher, he worked in the classroom giving lectures, creating teaching material, mentoring, and workshops on API Design and Development, Software Design, and Requirement Analysis.
 
 
 # **Skills**
@@ -46,9 +47,9 @@ Finally, as a teacher, he works in the classroom giving lectures, mentoring, and
 - Technical specifications
 - Static Sites
 - Getting started and onboarding guides
+- Research proposals 
 
 <---> <!-- magic separator, between columns -->
-
 
 ## *Tools*
 - JIRA

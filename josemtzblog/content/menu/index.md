@@ -25,8 +25,9 @@ headless: true
 
 --- 
 **Links** 
- - [My CV](/resume/Jose_Martinez_Resume.pdf) 
- - [My LinkedIn](https://www.linkedin.com/in/josemartinez26/)
- - [My GitHub](https://github.com/josemtzg)
- - [My Scholar](https://scholar.google.es/citations?user=ZiWW8eQAAAAJ&hl=es) 
+ - [CV](/resume/Jose_Martinez_Resume.pdf) 
+ - [LinkedIn](https://www.linkedin.com/in/josemartinez26/)
+ - [GitHub](https://github.com/josemtzg)
+ - [Google](https://www.promodescuentos.com/?target=_blank)
+ - [Scholar](https://scholar.google.es/citations?user=ZiWW8eQAAAAJ&hl=es) 
 --- 
