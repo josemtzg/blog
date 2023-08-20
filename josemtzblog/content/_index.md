@@ -7,6 +7,7 @@ type: docs
 # **Welcome** 
 
 Jose holds a Ph.D. in Computer Science, has over six years of academic writing experience, and has published research papers in peer-reviewed international journals of software engineering. His technical background enables him to understand the technology stack of projects and make complex concepts understandable for the intended audiences.
+
 Jose’s career has been divided into three major areas:
  * Technical Writer
  * Computer Science Researcher
@@ -16,7 +17,7 @@ He has experience working with multidisciplinary development teams to produce cl
   - Confluence-based information hubs
   - Developer portals
   - API references
-  - GitHub Documentation using docs as code graphic tools. 
+  - GitHub Documentation using docs as code graphic tools 
 
 As a researcher, he has been working with AI (Artificial Intelligence) and knowledge representation to support software development environments and the reduction of knowledge vaporization in Agile Methodologies.
 
