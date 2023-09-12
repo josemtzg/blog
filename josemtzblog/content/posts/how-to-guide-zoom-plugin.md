@@ -9,26 +9,26 @@ categories: ["tutorial"]
 ---
 
 # Overview 
-This document describes the process for scheduling a Zoom meeting in Outlook for macOS and iOS.
+This document describes the process for scheduling a Zoom meeting in Outlook for Apple devices.
 
 To schedule meetings using the Zoom add-in in Outlook, you need the following elements on your Apple device: 
 
 * Company’s Exchange or Microsoft 365 account
 * Zoom account 
-* Zoom for Outlook add-in
+* [Zoom for Outlook add-in](#installing-the-zoom-add-in)
 
 # Installing the Zoom Add-in 
 
 The Zoom for Outlook add-in enables you to schedule meetings within the Outlook application. You can install the add-in on the following devices:
 
-* macOS
-* iOS 
+* [macOS](#zoom-add-in-on-macos)
+* [iOS](#zoom-add-in-on-macos)
 
 {{< hint info >}}
 **Note:** Installing the Zoom add-in on one of your devices enables it across all the devices with the same Outlook account.  
 {{< /hint >}}
 
-After successfully installing your Zoom Add-in, you can Schedule a Zoom Meeting.  
+After successfully installing your Zoom Add-in, you can [Schedule a Zoom Meeting](#scheduling-a-zoom-meeting-in-outlook).  
 
 ## Zoom Add-in on MacOS
 To install the Zoom add-in on macOS, follow the next steps: 
@@ -58,14 +58,14 @@ A menu with an add-ins list for Outlook displays.
 5. Click the Add (+) button on the Zoom add-in. \
 A dialog window displays the *License Terms and Privacy Policy*.
 6. Click the **Continue** button.
-7. Close the Add-ins window.
-8. Close the Settings window.
+7. Close the **Add-ins** window.
+8. Close the **Settings** window.
 
 # Scheduling a Zoom Meeting in Outlook
 The following sections describe the process to schedule a Zoom meeting in Outlook on the following devices: 
 
-* macOS
-* iOS 
+* [macOS](#schedule-meetings-on-macos)
+* [iOS](#schedule-meetings-on-ios) 
 
 
 ## Schedule Meetings on macOS
@@ -90,12 +90,11 @@ A dropdown menu displays.
 
 
 ## Schedule Meetings on iOS 
-
 To schedule a Zoom Meeting in Outlook on iOS, follow the next steps: 
-1. Open the Outlook application.
-2. Click the Calendar button. \
+1. Open the **Microsoft Outlook** application.
+2. Click the **Calendar** button. \
 The menu switches to the calendar view. 
-3. Click the New Event button. \
+3. Click the **New Event** button. \
 A window with the meeting configuration opens.
 4. Enter the meeting information. 
 {{< hint danger >}}
