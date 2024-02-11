@@ -42,12 +42,11 @@ Finally, as a teacher, he worked in the classroom giving lectures, creating teac
 - Software architecture guides
 - READMEs
 - Sequence diagrams
-- Developer guides
 - User guides
 - Developer guides
 - Technical specifications
 - Static Sites
-- Getting started and onboarding guides
+- Getting started and Onboarding guides
 - Research proposals 
 
 <---> <!-- magic separator, between columns -->
