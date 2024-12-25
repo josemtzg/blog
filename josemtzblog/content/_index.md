@@ -58,7 +58,6 @@ Finally, as a teacher, he worked in the classroom giving lectures, creating teac
 - Swagger
 - Markdown
 - Postman
-- Jupyter notebooks
 - MySQL
 - MongoDB
 - MS Office
