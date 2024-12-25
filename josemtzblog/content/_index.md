@@ -60,6 +60,7 @@ Finally, as a teacher, he worked in the classroom giving lectures, creating teac
 - Postman
 - Jupyter notebooks
 - MySQL
+- MongoDB
 - MS Office
 - Rational
 - Oracle Cloud PLM 
