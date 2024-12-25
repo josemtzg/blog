@@ -54,7 +54,7 @@ Finally, as a teacher, he worked in the classroom giving lectures, creating teac
 ## *Tools*
 - JIRA
 - Confluence
-- Git
+- Git and GitHub
 - Swagger
 - Markdown
 - Postman
