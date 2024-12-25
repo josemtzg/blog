@@ -39,7 +39,6 @@ Finally, as a teacher, he worked in the classroom giving lectures, creating teac
 
 ## *Content*
 - API documentation
-- Requirements specification and writing
 - Software architecture guides
 - READMEs
 - Sequence diagrams
