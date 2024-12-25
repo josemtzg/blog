@@ -62,6 +62,8 @@ Finally, as a teacher, he worked in the classroom giving lectures, creating teac
 - MySQL
 - Text editors
 - MS Office
+- Rational
+- Oracle Cloud PLM 
 {{< /columns >}}
 
 # **Certifications** 
