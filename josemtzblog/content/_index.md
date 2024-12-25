@@ -39,6 +39,7 @@ Finally, as a teacher, he worked in the classroom giving lectures, creating teac
 
 ## *Content*
 - API documentation
+- Requirements specification and writing
 - Software architecture guides
 - READMEs
 - Sequence diagrams
@@ -67,6 +68,8 @@ Finally, as a teacher, he worked in the classroom giving lectures, creating teac
 # **Certifications** 
 - [**Microsoft Certified: Azure AI Fundamentals**](https://www.credly.com/badges/2a2f20d3-1f9e-40b4-9e0a-f06929ee3262/public_url)(2023)
 - [**Scrum Foundation Professional Certification - SFPC™**](https://www.credly.com/badges/92a83019-f0f3-4be2-821d-e167521b92ed/public_url) (2023)
+- [**Google Digital Leader Certification**](https://www.credly.com/badges/2a4e69b8-ca74-4f05-9e21-e488bd1c333a/public_url) (2024)
+
 
 # **Education**
 
