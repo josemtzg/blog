@@ -47,7 +47,8 @@ Finally, as a teacher, he worked in the classroom giving lectures, creating teac
 - Technical specifications
 - Static Sites
 - Getting started and Onboarding guides
-- Research proposals 
+- Research proposals
+- Tools validation  
 
 <---> <!-- magic separator, between columns -->
 
