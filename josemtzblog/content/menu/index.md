@@ -26,7 +26,7 @@ headless: true
 
 --- 
 **Links** 
- - [CV](/resume/Jose_Martinez_Resume.pdf) 
+ - [CV](/resume/Jose R Martinez_Resume.pdf) 
  - [LinkedIn](https://www.linkedin.com/in/josemartinez26/)
  - [GitHub](https://github.com/josemtzg)
  - [Scholar](https://scholar.google.es/citations?user=ZiWW8eQAAAAJ&hl=es) 
